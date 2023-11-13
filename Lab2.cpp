@@ -1,5 +1,5 @@
 #include <iostream>
 
-int unstart = 1;
+char unstart '1';
 
 
